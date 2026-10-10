@@ -1,0 +1,19 @@
+/* Page styling */
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Heading styling */
+h1 {
+    color: blue;
+}
+
+/* Button styling */
+button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+}
